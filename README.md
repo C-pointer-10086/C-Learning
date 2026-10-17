@@ -1,2 +1,13 @@
 # C-Learning
-C code written by a Chinese beginner while learning. Currently, there is only a simple student grade manager with low robustness and no data saving feature.
+
+C code written by a Chinese beginner while learning.
+
+## Current Features
+* Input student grades
+* Display student grades
+* Find the highest and lowest scores
+* Count the number of students in each grade range
+
+## Known Limitations
+* **No data persistence:** Cannot save or load data (no file I/O).
+* **Input buffer issue:** Fails to clear the input buffer properly.

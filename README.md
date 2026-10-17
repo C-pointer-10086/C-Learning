@@ -1,6 +1,4 @@
-👋 Hi, I'm an 8th-grade student in 2026 from China. This is my C language learning journey.
 # C-Learning
-
 C code written by a Chinese beginner while learning.
 
 ## Current Features
@@ -12,3 +10,11 @@ C code written by a Chinese beginner while learning.
 ## Known Limitations
 * **No data persistence:** Cannot save or load data (no file I/O).
 * **Input buffer issue:** Fails to clear the input buffer properly.
+## 👋 About Me
+I am an 8th-grade student in 2026 from China. 
+
+## 🛠️ Development Environment
+This project is coded and compiled entirely on an Android device:
+*   **Terminal:** Termux
+*   **Compiler:** clang
+*   **Editor:** nano

@@ -1,6 +1,7 @@
 # C-Learning
 
 C code written by a Chinese beginner while learning.
+👋 Hi, I'm an 8th-grade student in 2026 from China. This is my C language learning journey.
 
 ## Current Features
 * Input student grades

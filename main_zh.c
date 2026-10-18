@@ -71,7 +71,7 @@ int input_student_numbers(){
         numbers=(int)numbers_interim;
       }while( numbers<=0 || numbers >50);
       return numbers;
-}
+}// (注意：这里的 if 检查的是上一次循环的输入。初始值 1 是为了确保第一次运行不触发误报。)
 void input_scores(int marks[],int numbers ){
     float marks_interim=1;
     printf("\n请输入学生成绩(也会自动取整)");

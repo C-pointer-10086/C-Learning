@@ -86,6 +86,8 @@ int input_student_numbers() {
     
     return numbers;
 }
+// Note: The 'if' checks the PREVIOUS input. 
+// The initial value '1' ensures the first run doesn't trigger a false error.
 
 void input_scores(int marks[], int numbers) {
     float marks_interim = 1;
